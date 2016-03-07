@@ -21,5 +21,9 @@
 <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
 <script type="text/javascript">
 $("p:first").hide();
+$('#hello3').click(function(){
+  $('.hello:first').show();
+  $(".hello:last").hide();
+});
 </script>
 </html>
