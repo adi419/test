@@ -12,6 +12,7 @@
 	</head>
 <body>
 	<p>Hello World</p>
+	<p>Hello World 2</p>
 </body>
 <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
 <script type="text/javascript">
