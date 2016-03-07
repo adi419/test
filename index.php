@@ -3,16 +3,20 @@
 		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
 		<title>index</title>
 		<style type="text/css" media="screen">
-		p {
+		.hello {
 			color: blue;
 			font-size: 63px;
+		}
+		#hello3{
+			color: red;
 		}
 		</style>
 					
 	</head>
 <body>
-	<p>Hello World</p>
-	<p>Hello World 2</p>
+	<p class="hello">Hello World</p>
+	<p class="hello">Hello World 2</p>
+	<p id="hello3">Hello World 3</p>
 </body>
 <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
 <script type="text/javascript">
