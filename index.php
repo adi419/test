@@ -22,7 +22,7 @@
 <script type="text/javascript">
 $("p:first").hide();
 $('#hello3').click(function(){
-  $('.hello:first').show();
+  $('.hello:first').toggle();
   $(".hello:last").hide();
 });
 </script>
