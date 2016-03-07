@@ -8,7 +8,7 @@
 			font-size: 63px;
 		}
 		p:first-child {
-		    display: block;
+		    display: none;
 		}
 		#hello3{
 			color: red;
