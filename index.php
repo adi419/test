@@ -5,7 +5,7 @@
 		<title>index</title>
 		<style type="text/css" media="screen">
 		.hello {
-			color: blue;
+			color: yellow;
 			font-size: 63px;
 		}
 		p:first-child {
