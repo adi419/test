@@ -3,11 +3,12 @@
 		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
 		<title>index</title>
 		<style type="text/css" media="screen">
-		p{
-		color: red;
+		p {
+			color: blue;
+			font-size: 63px;
 		}
 		</style>
-		
+					
 	</head>
 <body>
 	<p>Hello World</p>
