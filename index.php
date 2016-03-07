@@ -7,6 +7,9 @@
 			color: blue;
 			font-size: 63px;
 		}
+		p:first-child {
+		    display: block;
+		}
 		#hello3{
 			color: red;
 		}
@@ -20,9 +23,11 @@
 </body>
 <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
 <script type="text/javascript">
-$("p:first").hide();
+//$("p:first").hide();
 $('#hello3').click(function(){
   $('.hello:first').toggle();
+  $('.hello:last').toggle();
+  
   
 });
 </script>
