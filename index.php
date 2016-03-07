@@ -14,6 +14,9 @@
 		#hello3{
 			color: red;
 		}
+		body {
+		    background-color: #d0e4fe;
+		}
 		</style>
 					
 	</head>
