@@ -25,12 +25,13 @@
 <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
 <script type="text/javascript">
 //$("p:first").hide();
+$(".hello").hover(function(){
+          alert("You entered p1!");
+      });
 $('#hello3').click(function(){
   $('.hello:first').toggle();
   $('.hello:last').toggle();
-  $("#p1").hover(function(){
-          alert("You entered p1!");
-      },
+  
   
 });
 </script>
