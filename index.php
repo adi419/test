@@ -1,13 +1,14 @@
-<css>
-p{
-color: red;
-}
-
-</css>
-
 <Html>
-<title> </title>
-
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>index</title>
+		<style type="text/css" media="screen">
+		p{
+		color: red;
+		}
+		</style>
+		
+	</head>
 <body>
 	<p>Hello World</p>
 </body>
