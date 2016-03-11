@@ -77,12 +77,12 @@
 <body>
 	<nav>
 		<ul class='navigation'>
-			<li><a>about US</a></li>
-			<li><a>about US</a></li>
-			<li><a>about US</a></li>
-			<li><a>about US</a></li>
-			<li><a>about US</a></li>
-			<li><a>about US</a></li>
+			<li><a>Page 1</a></li>
+			<li><a>Page 2</a></li>
+			<li><a>Page 3</a></li>
+			<li><a>Page 4</a></li>
+			<li><a>Page 5</a></li>
+			<li><a>Page 6</a></li>
 		</ul>	
 	</nav>	
 	<header class="parallax-window" data-parallax="scroll" data-image-src="https://placehold.it/1385x692">
