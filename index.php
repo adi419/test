@@ -31,9 +31,6 @@
 			position: fixed;
 		}
 		header{
-			background-image: url("http://placehold.it/1385x692");
-			height:692px;
-			width:1385px;
 			margin-top: 96px;
 		}
 		footer ul{
@@ -71,7 +68,8 @@
 		
 		.parallax-window {
 		    min-height: 692px;
-		    background: transparent;
+			width: 100%;
+			background-size: contain;
 		}
 		</style>
 					
