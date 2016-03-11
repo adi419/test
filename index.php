@@ -109,6 +109,6 @@ It is a long established fact that a reader will be distracted by the readable c
 		<ul><li class='footer-header'> Get Connected </li> </ul>
 	</footer>
 	<script src='https://code.jquery.com/jquery-2.2.1.min.js'></script>
-	<script src="http://pixelcog.github.io/parallax.js/js/parallax.min.js"></script>
+	<script src="https://pixelcog.github.io/parallax.js/js/parallax.min.js"></script>
 </body>
 </html>
