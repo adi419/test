@@ -78,11 +78,11 @@
 	<nav>
 		<ul class='navigation'>
 			<li><a href="index.php">Home</a></li>
-			<li><a href="page2.php">page2</a></li>
-			<li><a href="page3.php">page3</a></li>
-			<li><a href="page4.php">page4</a/li>
-			<li><a href="page5.php">page5</a</li>
-			<li><a href="page6.php">page6</a</li>
+			<li><a href="page2.php">Meet Dyuti</a></li>
+			<li><a href="page3.php">Meet Poorav</a></li>
+			<li><a href="page4.php">Events</a/li>
+			<li><a href="page5.php">Reservation</a</li>
+			<li><a href="page6.php">Contact Info</a</li>
 		</ul>	
 	</nav>	
 	<header class="parallax-window" data-parallax="scroll" data-image-src="https://placehold.it/1385x692">
@@ -103,6 +103,21 @@ It is a long established fact that a reader will be distracted by the readable c
 	<p>
 It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
 	</p>
+	<iframe id="forum_embed"
+	 src="javascript:void(0)"
+	 scrolling="no"
+	 frameborder="0"
+	 width="900"
+	 height="700">
+	</iframe>
+
+	<script type="text/javascript">
+	 document.getElementById("forum_embed").src =
+	  "http://goo.gl/forms/020qXs91Cd" +
+	  "&showsearch=true&showpopout=true&parenturl=" +
+	  encodeURIComponent(window.location.href);
+	</script>
+	
 	</section>
 	<div class="parallax-window" data-parallax="scroll" data-image-src="https://placehold.it/1385x692"></div>
 	<footer> 
