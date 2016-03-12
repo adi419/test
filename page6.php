@@ -113,7 +113,7 @@ It is a long established fact that a reader will be distracted by the readable c
 
 	<script type="text/javascript">
 	 document.getElementById("forum_embed").src =
-	  "http://goo.gl/forms/020qXs91Cd" +
+	  "https://groups.google.com/forum/embed/?place=forum/forum-name" +
 	  "&showsearch=true&showpopout=true&parenturl=" +
 	  encodeURIComponent(window.location.href);
 	</script>
