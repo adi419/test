@@ -77,8 +77,8 @@
 <body>
 	<nav>
 		<ul class='navigation'>
-			<li><a>Page 1</a></li>
-			<li><a>Page 2</a></li>
+			<li><a href="index.php">Home</a></li>
+			<li><a href="page2.php">page2</a></li>
 			<li><a>Page 3</a></li>
 			<li><a>Page 4</a></li>
 			<li><a>Page 5</a></li>
