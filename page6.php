@@ -78,11 +78,11 @@
 	<nav>
 		<ul class='navigation'>
 			<li><a href="index.php">Home</a></li>
-			<li><a href="page2.php">Meet Dyuti</a></li>
-			<li><a href="page3.php">Meet Poorav</a></li>
-			<li><a href="page4.php">Events</a/li>
-			<li><a href="page5.php">Reservation</a</li>
-			<li><a href="page6.php">Contact Info</a</li>
+			<li><a href="page2.php">page2</a></li>
+			<li><a href="page3.php">page3</a></li>
+			<li><a href="page4.php">page4</a/li>
+			<li><a href="page5.php">page5</a</li>
+			<li><a href="page6.php">page6</a</li>
 		</ul>	
 	</nav>	
 	<header class="parallax-window" data-parallax="scroll" data-image-src="https://placehold.it/1385x692">
