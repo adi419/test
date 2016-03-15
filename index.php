@@ -7,6 +7,8 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
 		<title>adis Sports</title>
 		<style type="text/css" media="screen">
+		<link rel="stylesheet" href="responsive-nav.css">
+		<script src="responsive-nav.js"></script>
 		a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,caption,center,cite,code,dd,del,details,dfn,div,dl,dt,em,embed,fieldset,figcaption,figure,footer,form,h1,h2,h3,h4,h5,h6,header,hgroup,html,i,iframe,img,ins,kbd,label,legend,li,mark,menu,nav,object,ol,output,p,pre,q,ruby,s,samp,section,small,span,strike,strong,sub,summary,sup,table,tbody,td,tfoot,th,thead,time,tr,tt,u,ul,var,video{margin:0;padding:0;border:0;font:inherit;vertical-align:baseline}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:after,blockquote:before,q:after,q:before{content:'';content:none}table{border-collapse:collapse;border-spacing:0}
 		body{
 			color: yellow;
@@ -76,7 +78,7 @@
 	</head>
 <body>
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<nav>
+	 <nav class="nav-collapse">>
 		<ul class='navigation'>
 			<li><a href="index.php">Home</a></li>
 			<li><a href="page2.php">page2</a></li>
@@ -112,5 +114,8 @@ It is a long established fact that a reader will be distracted by the readable c
 	</footer>
 	<script src='https://code.jquery.com/jquery-2.2.1.min.js'></script>
 	<script src="https://pixelcog.github.io/parallax.js/js/parallax.min.js"></script>
+	<script>
+	  var nav = responsiveNav(".nav-collapse");
+	</script>
 </body>
 </html>
