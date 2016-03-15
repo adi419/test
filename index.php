@@ -75,6 +75,7 @@
 					
 	</head>
 <body>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<nav>
 		<ul class='navigation'>
 			<li><a href="index.php">Home</a></li>
