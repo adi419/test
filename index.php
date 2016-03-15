@@ -86,6 +86,7 @@
 		</ul>	
 	</nav>	
 	<header class="parallax-window" data-parallax="scroll" data-image-src="https://placehold.it/1385x692">
+	<meta name="viewport" content="initial-scale=1">
 	</header>
 	<section>
 		<div id='section-header'>
